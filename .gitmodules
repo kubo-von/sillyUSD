@@ -1,0 +1,3 @@
+[submodule "src/cpp/include/OpenUSD"]
+	path = src/cpp/include/OpenUSD
+	url = git@github.com:PixarAnimationStudios/OpenUSD.git
