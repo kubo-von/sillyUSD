@@ -1,3 +1,6 @@
 [submodule "src/cpp/include/OpenUSD"]
 	path = src/cpp/include/OpenUSD
 	url = git@github.com:PixarAnimationStudios/OpenUSD.git
+[submodule "src/cpp/include/TBB"]
+	path = src/cpp/include/TBB
+	url = git@github.com:uxlfoundation/oneTBB.git
